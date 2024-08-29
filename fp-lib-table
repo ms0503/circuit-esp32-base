@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "circuit-esp32-base")(type "KiCad")(uri "${KIPRJMOD}/circuit-esp32-base.pretty")(options "")(descr ""))
+)
