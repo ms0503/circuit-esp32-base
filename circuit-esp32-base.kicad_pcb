@@ -3278,17 +3278,6 @@
 			(remove_unused_layers no)
 			(uuid "ab13590e-25c6-4d8b-bb9e-c9d8854c8dc6")
 		)
-		(model "mecha.3dshapes/toggle_switch.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "circuit-esp32-base:tact"
 		(layer "F.Cu")
@@ -3571,28 +3560,6 @@
 			(pinfunction "A")
 			(pintype "passive")
 			(uuid "d220cfda-c161-432c-a0d1-c0815dea57d5")
-		)
-		(model "mecha.3dshapes/tact.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "mecha.3dshapes/tact.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
 		)
 	)
 	(footprint "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm"
@@ -4823,17 +4790,6 @@
 			(pintype "passive")
 			(uuid "d5757ab9-99e9-4fe9-beb8-b4fd19c82644")
 		)
-		(model "mecha.3dshapes/pin.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "circuit-esp32-base:toggle_1-2"
 		(layer "F.Cu")
@@ -4989,17 +4945,6 @@
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
 			(uuid "4ba977f6-ffa5-4f4f-ba4e-84589c6cd641")
-		)
-		(model "mecha.3dshapes/toggle_switch.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
 		)
 	)
 	(footprint "circuit-esp32-base:6pin"
@@ -5614,17 +5559,6 @@
 			(pinfunction "Pin_6")
 			(pintype "passive")
 			(uuid "b1d5216c-a8e1-4863-9b69-dc2c6349eb2f")
-		)
-		(model "mecha.3dshapes/pin.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
 		)
 	)
 	(footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
@@ -8321,17 +8255,6 @@
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
 			(uuid "7f34c438-a096-4552-a260-21c39ede71d5")
-		)
-		(model "mecha.3dshapes/toggle_switch.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
 		)
 	)
 	(footprint "ms0503:DF1B-4P-2.5DSA"
@@ -11085,17 +11008,6 @@
 			(remove_unused_layers no)
 			(uuid "3b4b3ab5-c37d-4c1b-83d9-c4a2a805a814")
 		)
-		(model "mecha.3dshapes/toggle_switch.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "circuit-esp32-base:holeφ3.2"
 		(layer "F.Cu")
@@ -11965,17 +11877,6 @@
 			(pinfunction "Pin_8")
 			(pintype "passive")
 			(uuid "d8dafc89-8f5b-406f-a3d0-c0a511c39e60")
-		)
-		(model "mecha.3dshapes/pin.wrl"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 0.3937 0.3937 0.3937)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
 		)
 	)
 	(footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
