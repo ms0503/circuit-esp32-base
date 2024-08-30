@@ -13282,7 +13282,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "0.1uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "e72ba2a8-f99e-4929-b44a-e7902611b489")
@@ -13501,7 +13501,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "0.1uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "9cf6228c-62c8-4a56-b36e-866233ac3afa")
