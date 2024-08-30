@@ -7,7 +7,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "468fb867-508c-4629-a466-7ffe2db7f5fa")
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -19,7 +19,7 @@
 		(at 0.75 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "9b00256c-8cfb-40fc-9031-3b848d1cac52")
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "5d8c0a9e-72a4-4d57-8a4c-ab4761ed050c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "1275dd43-082b-47a6-8fa1-cdc4e39a1dc0")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,7 +55,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "77025175-f483-4d57-b636-392a56888e9e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -75,7 +75,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "7dd9b0c5-899e-4491-93ca-c0693f28aa3d")
 	)
 	(fp_poly
 		(pts
@@ -91,7 +91,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "30f294db-4b45-4087-89a4-f4ac09a944bd")
 	)
 	(fp_poly
 		(pts
@@ -111,7 +111,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "376c3367-0730-4463-846b-077865bd7e85")
 	)
 	(fp_poly
 		(pts
@@ -133,7 +133,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "52f1464d-a8f4-4f2a-ad27-e670cea7f43c")
 	)
 	(fp_poly
 		(pts
@@ -154,7 +154,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "38e9f66c-eda6-44f3-b624-79248f11cede")
 	)
 	(fp_poly
 		(pts
@@ -189,7 +189,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "774eb7b0-c2a6-4bae-b5f6-6dca5117eda0")
 	)
 	(fp_poly
 		(pts
@@ -225,7 +225,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "8c36435b-7879-4451-8763-81126976fc8c")
 	)
 	(fp_poly
 		(pts
@@ -274,7 +274,7 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "c63895e9-d3cc-4184-87ad-b4c5f44fdcbc")
 	)
 	(fp_poly
 		(pts
@@ -346,12 +346,12 @@
 		)
 		(fill solid)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "e2867b14-f310-4f78-9ac1-0b6eb4aaa4e1")
 	)
 	(fp_text user "Mechatoronics Lab"
 		(at -0.1 7 0)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "84e3e899-4923-4a0d-bf4f-f037e92894ea")
 		(effects
 			(font
 				(size 1 1)
@@ -359,10 +359,10 @@
 			)
 		)
 	)
-	(fp_text user "SNIT NatoriCampus"
+	(fp_text user "SNCT NatoriCampus"
 		(at -0.1 5.6 0)
 		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-000000000000")
+		(uuid "eb3cf478-08df-499d-92b5-5951e5a1667c")
 		(effects
 			(font
 				(size 1 1)
