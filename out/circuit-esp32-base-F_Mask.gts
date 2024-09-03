@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*
-G04 #@! TF.CreationDate,2024-09-04T05:55:02+09:00*
+G04 #@! TF.CreationDate,2024-09-04T06:00:41+09:00*
 G04 #@! TF.ProjectId,circuit-esp32-base,63697263-7569-4742-9d65-737033322d62,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-04 05:55:02*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-04 06:00:41*
 %MOMM*%
 %LPD*%
 G01*
@@ -241,7 +241,7 @@ X107000000Y-130000000D03*
 X107000000Y-127500000D03*
 X107000000Y-125000000D03*
 D23*
-X104000000Y-84000000D03*
+X104000000Y-83500000D03*
 D14*
 X196542500Y-106400000D03*
 X194892500Y-106400000D03*
