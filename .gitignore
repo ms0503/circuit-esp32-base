@@ -28,4 +28,5 @@ fp-info-cache
 *.xml
 *.csv
 
-out.zip
+out*.zip
+*.lck

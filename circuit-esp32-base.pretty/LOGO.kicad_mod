@@ -4,8 +4,8 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "G***"
-		(at 0 0 0)
-		(layer "F.SilkS")
+		(at 0 -8 0)
+		(layer "F.Fab")
 		(hide yes)
 		(uuid "468fb867-508c-4629-a466-7ffe2db7f5fa")
 		(effects
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "LOGO"
-		(at 0.75 0 0)
+		(at 0 -6 0)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "9b00256c-8cfb-40fc-9031-3b848d1cac52")
